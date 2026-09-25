@@ -19,3 +19,26 @@ Takes a student's marks as input and uses the ternary operator (instead of if-el
 ---
 
 **Overall concepts learned:** Conditional logic (if-else and nested if-else), switch-case structures (including nesting), the ternary operator, basic input/output handling in C, and writing clean decision-making logic for real-world-style scenarios.
+
+---
+## Post-Lab Tasks
+
+### Task 1: Temperature Status
+
+Takes a temperature value (in Celsius) as input and uses if-else to classify it as Cold (below 15), Normal (15–30), or Hot (above 30).
+
+### Task 2: Mobile Data Package
+
+Takes a customer's balance as input and uses if-else to categorize it as Low Balance (below 500), Sufficient Balance (500–2000), or Premium Balance (above 2000).
+
+### Task 3: Hospital Appointment
+
+Uses nested if-else to check three conditions in sequence — whether the patient has an appointment, whether the doctor is available, and whether registration is completed — to determine if the patient can meet the doctor.
+
+### Task 4: Online Food Order
+
+Uses nested if-else to check whether the restaurant is open, whether the ordered item is available, and whether the balance is sufficient, displaying the appropriate order status at each step.
+
+### Task 5: ATM and Transaction Selection
+
+Uses a nested switch statement to handle a two-level menu — first selecting an ATM operation (Balance Inquiry, Cash Withdrawal, Cash Deposit, or PIN Change), then selecting the relevant account type based on that choice.
